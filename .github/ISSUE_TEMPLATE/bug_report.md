@@ -3,7 +3,7 @@ name: Bug report
 about: Create a report to help us improve
 title: ''
 labels: ''
-assignees: joker-119
+assignees: BenFRC5147
 
 ---
 
@@ -20,14 +20,8 @@ Steps to reproduce the behavior:
 **Expected behavior**
 A clear and concise description of what you expected to happen.
 
-**Server logs**
-Please include a pastebin of your localadmin log file (or both MA_log and SCP_log files if you use MultiAdmin) from the time in which the bug occured
-
-**EXILED Version ("latest" is not a version):**
-
-
-**Results of `show plugins` command in console:**
-
+**TimeStamp**
+Please give a timestamp as accurately as possible when you did the thing you did
 
 **Additional context**
 Add any other context about the problem here.
